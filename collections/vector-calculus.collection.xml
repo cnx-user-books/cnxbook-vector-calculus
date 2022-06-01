@@ -1,0 +1,48 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col25838</md:content-id>
+    <md:title>Vector Calculus</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>280b7162-d0ce-45b7-b8b7-5d4eb703b71e</md:uuid>
+<md:slug>vector-calculus</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Vectors in Space</md:title>
+      <col:content>
+        <col:module document="m53900"/>
+        <col:module document="m53897"/>
+        <col:module document="m53902"/>
+        <col:module document="m53903"/>
+        <col:module document="m53875"/>
+        <col:module document="m53913"/>
+        <col:module document="m53916"/>
+        <col:module document="m53930"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Vector Calculus</md:title>
+      <col:content>
+        <col:module document="m53989"/>
+        <col:module document="m54012"/>
+        <col:module document="m53987"/>
+        <col:module document="m53982"/>
+        <col:module document="m53986"/>
+        <col:module document="m54009"/>
+        <col:module document="m54001"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Multiple Integrations</md:title>
+      <col:content>
+        <col:module document="m53949"/>
+        <col:module document="m53963"/>
+        <col:module document="m53966"/>
+        <col:module document="m53965"/>
+        <col:module document="m53967"/>
+        <col:module document="m53970"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
